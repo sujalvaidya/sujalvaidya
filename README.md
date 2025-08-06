@@ -4,14 +4,14 @@
 
 🔌 **Majoring in Electronics & Communication Engineering**, minoring in Computer Science at PES University.  
 
-💻 I’m passionate about **web development**, **machine learning**, and **embedded systems**.  
+💻 I’m passionate about **Computer Architecture**, **High Performance Computing**, **Machine Learning**.  
 
 🌐 Check out my [portfolio website](https://sujalvaidya.pages.dev) here!
 
 ### 🛠️ Some things I work with:
 - **Programming**: Python, C, JavaScript, SystemVerilog   
-- **Frameworks**: Django, React, Node.js  
-- **Tools**: Git, Docker, Visual Studio Code, JetBrains IDEs   
+- **Frameworks**: SystemC, Cuda, Arduino, Django, Node.js, React.js, Astro.js 
+- **Tools**: Git, Docker, Visual Studio Code, JetBrains IDEs, Cadence Tools, Vivado  
 
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sujalvaidya/)
